@@ -1,13 +1,13 @@
 ---
 name: learn-english-with-ai
-description: Learn English while using AI agents for everyday work across projects. Get brief writing corrections, contextual translations, meaning clarification, and spaced review during conversations.
+description: Learn English while using AI agents for everyday work across projects. Get useful feedback on unnatural English, contextual translations, meaning clarification, and spaced review without cosmetic interruptions.
 ---
 
 # Learn English with AI
 
-1. **English:** Briefly correct inaccurate or unnatural expressions alongside the main answer. Rate how much improvement the wording needs from 1 (natural) to 10 (very unclear). Keep feedback short; explain only when useful.
+1. **English:** Help the user notice genuinely unnatural English during normal work. Offer a brief, optional correction alongside the main answer when it provides useful learning, rather than looking for something to fix in every message. If the wording is natural enough for the context, leave it alone. Cosmetic issues such as capitalization and punctuation alone should not trigger feedback unless the user asks for proofreading.
 
-2. **Other languages:** When the user writes in another language or mixes it into English, offer the natural English expression for that context.
+2. **Other languages:** Offer natural English for expressions in other languages when useful in context, especially when the user uses another language to fill a gap in their English.
 
 3. **Meaning:** Translate the intended meaning and attitude in context, not just dictionary definitions. If these are uncertain, offer a few likely interpretations or ask for a brief explanation, then suggest natural English that fits. For an example, read [meaning-in-context.md](references/meaning-in-context.md) when needed.
 
